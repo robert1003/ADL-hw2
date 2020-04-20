@@ -17,5 +17,5 @@
 ### Plot Answerable Threshold (Q6)
 
 1. pretrained model file should be placed in `final/model`
-2. run `python3.6 final/draw_p6.py [dev_data_path] [output_pic_path] [python3 path (installed with ckiptagger package)] [scorer_path] [temp_file_1_path] [temp_file_2_path] [ckipdata_path]`
+2. run `python3.7 final/draw_p6.py [dev_data_path] [output_pic_path] [python3 path (installed with ckiptagger package)] [scorer_path] [temp_file_1_path] [temp_file_2_path] [ckipdata_path]`
     + `temp_file_1_path` and `temp_file_2_path` represents two temporary files
