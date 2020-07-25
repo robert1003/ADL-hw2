@@ -1,3 +1,13 @@
+# ADL hw2
+
+## Homework description
+
+* [Link](https://docs.google.com/presentation/d/1OKenehP3x1mrYIlLS3OHV9f178nn809SE23MFk_QCLE/edit?usp=sharing) to the homework slide.
+* [Link](https://youtu.be/71c3rsnyB8E) to the homework video.
+* [Link](https://drive.google.com/drive/folders/1HTdj80dj3zFFJliv1EBoHgX-IEeP_4pQ?usp=sharing) to the data.
+* [Link](https://gist.github.com/haotongye/47f54389e6d486026352413697e96f4e) to the evaluation script.
+
+## Execution details
 
 ### Train
 
